@@ -1,4 +1,4 @@
-nombre = "Diego"
+nombre = "Iego"
 apellido = "Miguel"
 alias = "DMS"
 
