@@ -1,3 +1,3 @@
-nombre = "Pedrito"
+nombre = "pablo"
 
 print(f"Hola {nombre}")
